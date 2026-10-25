@@ -1,5 +1,4 @@
 {
-HEAD
   "name": "amplify-paas",
   "private": true,
   "version": "0.0.0",
@@ -32,6 +31,3 @@ HEAD
     "vite": "^8.3.4"
   }
 }
-  "type": "module"
-}
-dd12bd64f6c6bd1fdebd8045960c9920bec7700c
